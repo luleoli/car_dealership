@@ -1,418 +1,106 @@
-[
-  {
-    "Label": "Acura",
-    "Value": "1"
-  },
-  {
-    "Label": "Agrale",
-    "Value": "2"
-  },
-  {
-    "Label": "Alfa Romeo",
-    "Value": "3"
-  },
-  {
-    "Label": "AM Gen",
-    "Value": "4"
-  },
-  {
-    "Label": "Asia Motors",
-    "Value": "5"
-  },
-  {
-    "Label": "ASTON MARTIN",
-    "Value": "189"
-  },
-  {
-    "Label": "Audi",
-    "Value": "6"
-  },
-  {
-    "Label": "Baby",
-    "Value": "207"
-  },
-  {
-    "Label": "BMW",
-    "Value": "7"
-  },
-  {
-    "Label": "BRM",
-    "Value": "8"
-  },
-  {
-    "Label": "Bugre",
-    "Value": "123"
-  },
-  {
-    "Label": "BYD",
-    "Value": "238"
-  },
-  {
-    "Label": "CAB Motors",
-    "Value": "236"
-  },
-  {
-    "Label": "Cadillac",
-    "Value": "10"
-  },
-  {
-    "Label": "Caoa Chery",
-    "Value": "245"
-  },
-  {
-    "Label": "Caoa Chery/Chery",
-    "Value": "161"
-  },
-  {
-    "Label": "CBT Jipe",
-    "Value": "11"
-  },
-  {
-    "Label": "CHANA",
-    "Value": "136"
-  },
-  {
-    "Label": "CHANGAN",
-    "Value": "182"
-  },
-  {
-    "Label": "Chrysler",
-    "Value": "12"
-  },
-  {
-    "Label": "Citroën",
-    "Value": "13"
-  },
-  {
-    "Label": "Cross Lander",
-    "Value": "14"
-  },
-  {
-    "Label": "D2D Motors",
-    "Value": "241"
-  },
-  {
-    "Label": "Daewoo",
-    "Value": "15"
-  },
-  {
-    "Label": "Daihatsu",
-    "Value": "16"
-  },
-  {
-    "Label": "DFSK",
-    "Value": "246"
-  },
-  {
-    "Label": "Dodge",
-    "Value": "17"
-  },
-  {
-    "Label": "EFFA",
-    "Value": "147"
-  },
-  {
-    "Label": "Engesa",
-    "Value": "18"
-  },
-  {
-    "Label": "Envemo",
-    "Value": "19"
-  },
-  {
-    "Label": "Ferrari",
-    "Value": "20"
-  },
-  {
-    "Label": "FEVER",
-    "Value": "249"
-  },
-  {
-    "Label": "Fiat",
-    "Value": "21"
-  },
-  {
-    "Label": "Fibravan",
-    "Value": "149"
-  },
-  {
-    "Label": "Ford",
-    "Value": "22"
-  },
-  {
-    "Label": "FOTON",
-    "Value": "190"
-  },
-  {
-    "Label": "Fyber",
-    "Value": "170"
-  },
-  {
-    "Label": "GAC",
-    "Value": "254"
-  },
-  {
-    "Label": "GEELY",
-    "Value": "199"
-  },
-  {
-    "Label": "GM - Chevrolet",
-    "Value": "23"
-  },
-  {
-    "Label": "GREAT WALL",
-    "Value": "153"
-  },
-  {
-    "Label": "Gurgel",
-    "Value": "24"
-  },
-  {
-    "Label": "GWM",
-    "Value": "240"
-  },
-  {
-    "Label": "HAFEI",
-    "Value": "152"
-  },
-  {
-    "Label": "HITECH ELECTRIC",
-    "Value": "214"
-  },
-  {
-    "Label": "Honda",
-    "Value": "25"
-  },
-  {
-    "Label": "Hyundai",
-    "Value": "26"
-  },
-  {
-    "Label": "Isuzu",
-    "Value": "27"
-  },
-  {
-    "Label": "IVECO",
-    "Value": "208"
-  },
-  {
-    "Label": "JAC",
-    "Value": "177"
-  },
-  {
-    "Label": "Jaecoo",
-    "Value": "251"
-  },
-  {
-    "Label": "Jaguar",
-    "Value": "28"
-  },
-  {
-    "Label": "Jeep",
-    "Value": "29"
-  },
-  {
-    "Label": "JINBEI",
-    "Value": "154"
-  },
-  {
-    "Label": "JPX",
-    "Value": "30"
-  },
-  {
-    "Label": "Kia Motors",
-    "Value": "31"
-  },
-  {
-    "Label": "Lada",
-    "Value": "32"
-  },
-  {
-    "Label": "LAMBORGHINI",
-    "Value": "171"
-  },
-  {
-    "Label": "Land Rover",
-    "Value": "33"
-  },
-  {
-    "Label": "Leapmotor",
-    "Value": "260"
-  },
-  {
-    "Label": "Lexus",
-    "Value": "34"
-  },
-  {
-    "Label": "LIFAN",
-    "Value": "168"
-  },
-  {
-    "Label": "LOBINI",
-    "Value": "127"
-  },
-  {
-    "Label": "Lotus",
-    "Value": "35"
-  },
-  {
-    "Label": "Mahindra",
-    "Value": "140"
-  },
-  {
-    "Label": "Maserati",
-    "Value": "36"
-  },
-  {
-    "Label": "Matra",
-    "Value": "37"
-  },
-  {
-    "Label": "Mazda",
-    "Value": "38"
-  },
-  {
-    "Label": "Mclaren",
-    "Value": "211"
-  },
-  {
-    "Label": "Mercedes-Benz",
-    "Value": "39"
-  },
-  {
-    "Label": "Mercury",
-    "Value": "40"
-  },
-  {
-    "Label": "MG",
-    "Value": "167"
-  },
-  {
-    "Label": "MINI",
-    "Value": "156"
-  },
-  {
-    "Label": "Mitsubishi",
-    "Value": "41"
-  },
-  {
-    "Label": "Miura",
-    "Value": "42"
-  },
-  {
-    "Label": "NETA",
-    "Value": "250"
-  },
-  {
-    "Label": "Nissan",
-    "Value": "43"
-  },
-  {
-    "Label": "Omoda",
-    "Value": "252"
-  },
-  {
-    "Label": "Peugeot",
-    "Value": "44"
-  },
-  {
-    "Label": "Plymouth",
-    "Value": "45"
-  },
-  {
-    "Label": "Pontiac",
-    "Value": "46"
-  },
-  {
-    "Label": "Porsche",
-    "Value": "47"
-  },
-  {
-    "Label": "RAM",
-    "Value": "185"
-  },
-  {
-    "Label": "RELY",
-    "Value": "186"
-  },
-  {
-    "Label": "Renault",
-    "Value": "48"
-  },
-  {
-    "Label": "Rolls-Royce",
-    "Value": "195"
-  },
-  {
-    "Label": "Rover",
-    "Value": "49"
-  },
-  {
-    "Label": "Saab",
-    "Value": "50"
-  },
-  {
-    "Label": "Saturn",
-    "Value": "51"
-  },
-  {
-    "Label": "Seat",
-    "Value": "52"
-  },
-  {
-    "Label": "SERES",
-    "Value": "247"
-  },
-  {
-    "Label": "SHINERAY",
-    "Value": "183"
-  },
-  {
-    "Label": "smart",
-    "Value": "157"
-  },
-  {
-    "Label": "SSANGYONG",
-    "Value": "125"
-  },
-  {
-    "Label": "Subaru",
-    "Value": "54"
-  },
-  {
-    "Label": "Suzuki",
-    "Value": "55"
-  },
-  {
-    "Label": "TAC",
-    "Value": "165"
-  },
-  {
-    "Label": "Toyota",
-    "Value": "56"
-  },
-  {
-    "Label": "Troller",
-    "Value": "57"
-  },
-  {
-    "Label": "Volvo",
-    "Value": "58"
-  },
-  {
-    "Label": "VW - VolksWagen",
-    "Value": "59"
-  },
-  {
-    "Label": "Wake",
-    "Value": "163"
-  },
-  {
-    "Label": "Walk",
-    "Value": "120"
-  },
-  {
-    "Label": "ZEEKR",
-    "Value": "253"
-  }
-]
+{
+  "Acura": "1",
+  "Agrale": "2",
+  "Alfa Romeo": "3",
+  "AM Gen": "4",
+  "Asia Motors": "5",
+  "ASTON MARTIN": "189",
+  "Audi": "6",
+  "Baby": "207",
+  "BMW": "7",
+  "BRM": "8",
+  "Bugre": "123",
+  "BYD": "238",
+  "CAB Motors": "236",
+  "Cadillac": "10",
+  "Caoa Chery": "245",
+  "Caoa Chery/Chery": "161",
+  "CBT Jipe": "11",
+  "CHANA": "136",
+  "CHANGAN": "182",
+  "Chrysler": "12",
+  "Citroën": "13",
+  "Cross Lander": "14",
+  "D2D Motors": "241",
+  "Daewoo": "15",
+  "Daihatsu": "16",
+  "DFSK": "246",
+  "Dodge": "17",
+  "EFFA": "147",
+  "Engesa": "18",
+  "Envemo": "19",
+  "Ferrari": "20",
+  "FEVER": "249",
+  "Fiat": "21",
+  "Fibravan": "149",
+  "Ford": "22",
+  "FOTON": "190",
+  "Fyber": "170",
+  "GAC": "254",
+  "GEELY": "199",
+  "GM - Chevrolet": "23",
+  "GREAT WALL": "153",
+  "Gurgel": "24",
+  "GWM": "240",
+  "HAFEI": "152",
+  "HITECH ELECTRIC": "214",
+  "Honda": "25",
+  "Hyundai": "26",
+  "Isuzu": "27",
+  "IVECO": "208",
+  "JAC": "177",
+  "Jaecoo": "251",
+  "Jaguar": "28",
+  "Jeep": "29",
+  "JINBEI": "154",
+  "JPX": "30",
+  "Kia Motors": "31",
+  "Lada": "32",
+  "LAMBORGHINI": "171",
+  "Land Rover": "33",
+  "Leapmotor": "260",
+  "Lexus": "34",
+  "LIFAN": "168",
+  "LOBINI": "127",
+  "Lotus": "35",
+  "Mahindra": "140",
+  "Maserati": "36",
+  "Matra": "37",
+  "Mazda": "38",
+  "Mclaren": "211",
+  "Mercedes-Benz": "39",
+  "Mercury": "40",
+  "MG": "167",
+  "MINI": "156",
+  "Mitsubishi": "41",
+  "Miura": "42",
+  "NETA": "250",
+  "Nissan": "43",
+  "Omoda": "252",
+  "Peugeot": "44",
+  "Plymouth": "45",
+  "Pontiac": "46",
+  "Porsche": "47",
+  "RAM": "185",
+  "RELY": "186",
+  "Renault": "48",
+  "Rolls-Royce": "195",
+  "Rover": "49",
+  "Saab": "50",
+  "Saturn": "51",
+  "Seat": "52",
+  "SERES": "247",
+  "SHINERAY": "183",
+  "smart": "157",
+  "SSANGYONG": "125",
+  "Subaru": "54",
+  "Suzuki": "55",
+  "TAC": "165",
+  "Toyota": "56",
+  "Troller": "57",
+  "Volvo": "58",
+  "VW - VolksWagen": "59",
+  "Wake": "163",
+  "Walk": "120",
+  "ZEEKR": "253"
+}
