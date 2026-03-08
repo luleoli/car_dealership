@@ -86,3 +86,4 @@ Thumbs.db
 # Custom ignore rules
 
 /data/
+/old
